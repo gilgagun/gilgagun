@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요? '몰입'을 강점으로 가지고 있는 AI 엔지니어 김성민입니다 👋
 
 <!--
 **gilgagun/gilgagun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
