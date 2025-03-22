@@ -1,4 +1,4 @@
-### 안녕하세요? 'AI' 자체가 되고 싶은 AI 엔지니어 김성민입니다 👋
+### 안녕하세요? 푸른 뱀 Python 개발자 김성민입니다 👋
 
 <!--
 **gilgagun/gilgagun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
